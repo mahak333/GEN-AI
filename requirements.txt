@@ -6,3 +6,4 @@ ollama
 Numpy
 Panda
 MatPlotlib
+plotly
